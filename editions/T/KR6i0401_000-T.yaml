@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0401/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說稻芉經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T16/T16n0709.xml
+    old_id: T16n0709
+hash: sha256:bd53f9f6feb754a34cdbb145750767c4142ddec4cd19115040c519a98a02e1b6
